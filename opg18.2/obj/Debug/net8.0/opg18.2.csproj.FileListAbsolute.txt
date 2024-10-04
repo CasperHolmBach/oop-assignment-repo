@@ -1,0 +1,15 @@
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\obj\Debug\net8.0\opg18.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\obj\Debug\net8.0\opg18.2.AssemblyInfoInputs.cache
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\obj\Debug\net8.0\opg18.2.AssemblyInfo.cs
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\obj\Debug\net8.0\opg18.2.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\obj\Debug\net8.0\opg18.2.sourcelink.json
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\bin\Debug\net8.0\opg18.2.exe
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\bin\Debug\net8.0\opg18.2.deps.json
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\bin\Debug\net8.0\opg18.2.runtimeconfig.json
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\bin\Debug\net8.0\opg18.2.dll
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\bin\Debug\net8.0\opg18.2.pdb
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\obj\Debug\net8.0\opg18.2.dll
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\obj\Debug\net8.0\refint\opg18.2.dll
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\obj\Debug\net8.0\opg18.2.pdb
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\obj\Debug\net8.0\opg18.2.genruntimeconfig.cache
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg18.2\obj\Debug\net8.0\ref\opg18.2.dll
