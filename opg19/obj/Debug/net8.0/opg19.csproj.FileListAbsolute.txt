@@ -1,0 +1,15 @@
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\obj\Debug\net8.0\opg19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\obj\Debug\net8.0\opg19.AssemblyInfoInputs.cache
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\obj\Debug\net8.0\opg19.AssemblyInfo.cs
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\obj\Debug\net8.0\opg19.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\obj\Debug\net8.0\opg19.sourcelink.json
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\bin\Debug\net8.0\opg19.exe
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\bin\Debug\net8.0\opg19.deps.json
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\bin\Debug\net8.0\opg19.runtimeconfig.json
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\bin\Debug\net8.0\opg19.dll
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\bin\Debug\net8.0\opg19.pdb
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\obj\Debug\net8.0\opg19.dll
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\obj\Debug\net8.0\refint\opg19.dll
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\obj\Debug\net8.0\opg19.pdb
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\obj\Debug\net8.0\opg19.genruntimeconfig.cache
+C:\Users\Bruger\onedrive\uni\oop\kode\assignmentrepo\opg19\obj\Debug\net8.0\ref\opg19.dll
